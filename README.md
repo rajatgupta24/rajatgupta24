@@ -3,7 +3,7 @@
 ### About Me
 🎓 I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science & Engineering. </br>
 💻 I'm passionate about learning new things & building projects. </br>
-🚀I'm interested in web development, devops & machine learning. </br>
+🚀 I'm interested in web development, devops & machine learning. </br>
 
 <a href="https://www.linkedin.com/in/rajatgupta24/">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
