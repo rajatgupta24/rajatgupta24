@@ -15,6 +15,8 @@
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight)
+
 <!--
 **rajatgupta24/rajatgupta24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
