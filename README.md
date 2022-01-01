@@ -1,15 +1,8 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Rajat!](https://rajatgupta24.github.io/portfolio/) 
+<h2 align="center">Building New, Fast, Clean, & Unique websites & maintaining them.</h1>
 
-### About Me: 
-- 🔭 I’m currently working on build projects & contributing to open source.
-- 🌱 I’m currently learning DevOps.
-- 👯 I’m looking to collaborate on [kubernetes](https://github.com/kubernetes/kubernetes).
-- 🤔 I’m looking for help with DevOps & Open Source Contributing.
-- 💬 Ask me about Web Development.
-- 😄 Pronouns: He/Him/His
-- ⚡ Fun fact: I'm a college student & Chairperson [IEEE MSIT Project Committee](https://github.com/projectcommittee).
+Hey, I'm Rajat Gupta, currently a college student pursuing majors in CS & IT.
 
-### Tech & Tools: 
+### Some of my proud skills are: 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
   <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
@@ -40,3 +33,5 @@
     <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/>
   </a>
 </p>
+
+### Some proud moments of my engineering:
