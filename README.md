@@ -34,4 +34,4 @@ Hey, I'm Rajat Gupta, currently a college student pursuing majors in CS & IT.
   </a>
 </p>
 
-### Some proud moments of my engineering:
+<!-- ### Some proud moments of my engineering: -->
