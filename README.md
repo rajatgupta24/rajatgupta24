@@ -27,7 +27,7 @@ Hey, I'm Rajat Gupta, currently a college student pursuing majors in CS & IT.
 
 <a href="#" align="center">
 
-  ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatgupta24)
+<!--   ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatgupta24) -->
   ![](https://github-readme-streak-stats.herokuapp.com?user=rajatgupta24&date_format=M%20j%5B%2C%20Y%5D)
   
 </a>
