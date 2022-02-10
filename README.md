@@ -18,6 +18,20 @@ Hey, I'm Rajat Gupta, currently a college student pursuing majors in CS & IT.
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
 </p>
 
+<a href="#" align="center">
+  
+![](https://github.com/rajatgupta24/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/rajatgupta24/github-stats/blob/master/generated/languages.svg)  
+  
+</a>
+
+<a href="#" align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com?user=rajatgupta24&date_format=M%20j%5B%2C%20Y%5D)
+  
+</a>
+
+
 ### Honors & Awards 🏅
 - Selected as a recipient for the [Linux Foundation Training (LiFT)](https://www.linuxfoundation.org/diversity-inclusivity/lift-scholarship-2021-recipients/) Scholarship in the Developer Do-Gooders category.
 
@@ -35,3 +49,4 @@ Hey, I'm Rajat Gupta, currently a college student pursuing majors in CS & IT.
 </p>
 
 <!-- ### Some proud moments of my engineering: -->
+
