@@ -1,6 +1,7 @@
 <h2 align="center">Building New, Fast, Clean, & Unique websites & maintaining them.</h1>
 
-Hey, I'm Rajat Gupta, currently a college student pursuing majors in CS & IT.
+
+<p align="center">Hey, I'm Rajat Gupta, currently a college student pursuing majors in CS & IT.</p>
 
 ### Some of my proud skills are: 
 <p align="center">
