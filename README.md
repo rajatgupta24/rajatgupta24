@@ -1,22 +1,24 @@
 <h2 align="center">Building New, Fast, Clean, & Unique websites & maintaining them.</h1>
 
-
 <p align="center">Hey, I'm Rajat Gupta, currently a college student pursuing majors in CS & IT.</p>
+<p align="center">Aside from writing assignments & practical files, I contribute to <a href="https://github.com/jenkins-x">Jenkins X</a>.</p>
 
-### Some of my proud skills are: 
+
+
+### Some of my skills are: 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/golang.png"/>
+  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
+  <img src="https://img.icons8.com/color/48/000000/golang.png"/> 
   <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
   <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
   <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
   <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
   <img src="https://img.icons8.com/color/48/000000/linux.png"/>
   <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
   <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
   <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
+  
 </p>
 
 <a href="#" align="center">
@@ -34,7 +36,7 @@
 </a>
 
 
-### Honors & Awards 🏅
+### 🏅 Honors & Awards
 - Selected as a recipient for the [Linux Foundation Training (LiFT)](https://www.linuxfoundation.org/diversity-inclusivity/lift-scholarship-2021-recipients/) Scholarship in the Developer Do-Gooders category.
 
 ### 📫 How to reach me: 
