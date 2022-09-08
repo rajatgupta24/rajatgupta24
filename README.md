@@ -21,16 +21,18 @@
   
 </p>
 
+<!--
 <a href="#" align="center">
   
   ![](https://github.com/rajatgupta24/github-stats/blob/master/generated/overview.svg)
   ![](https://github.com/rajatgupta24/github-stats/blob/master/generated/languages.svg)  
   
 </a>
+-->
 
 <a href="#" align="center">
 
-<!--   ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatgupta24) -->
+  ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatgupta24)
   ![](https://github-readme-streak-stats.herokuapp.com?user=rajatgupta24&date_format=M%20j%5B%2C%20Y%5D)
   
 </a>
@@ -53,6 +55,3 @@
 </p>
 
 <!-- ### Some proud moments of my engineering -->
-<!-- ### Some proud moments of my engineering -->
-<!-- ### Some proud moments of my engineering -->
-
