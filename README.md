@@ -1,47 +1,19 @@
-<h2 align="center">Building New, Fast, Clean, & Unique websites & maintaining them.</h1>
-
-<p align="center">Hey, I'm Rajat Gupta, currently a college student pursuing majors in CS & IT.</p>
-<p align="center">Aside from writing assignments & practical files, I contribute to <a href="https://github.com/jenkins-x">Jenkins X</a>.</p>
-
-
-
-### Some of my skills are: 
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
-  <img src="https://img.icons8.com/color/48/000000/typescript.png"/>
-  <img src="https://img.icons8.com/color/48/000000/golang.png"/> 
-  <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
-  <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-  <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-  <img src="https://img.icons8.com/color/48/000000/linux.png"/>
-  <img src="https://img.icons8.com/fluency/48/000000/docker.png"/>
-  <img src="https://img.icons8.com/color/48/000000/kubernetes.png"/>
-  <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png"/>
-  
-</p>
-
-<!--
-<a href="#" align="center">
-  
-  ![](https://github.com/rajatgupta24/github-stats/blob/master/generated/overview.svg)
-  ![](https://github.com/rajatgupta24/github-stats/blob/master/generated/languages.svg)  
-  
-</a>
--->
+# Hello, I'm Rajat Gupta
+I'm a senior studying computer science for my bachelor's degree. Throughout college, I worked on a few projects and contributed to several open source projects.
 
 <a href="#" align="center">
 
-  ![Rajat's GitHub stats](https://github-readme-stats.vercel.app/api?username=rajatgupta24)
   ![](https://github-readme-streak-stats.herokuapp.com?user=rajatgupta24&date_format=M%20j%5B%2C%20Y%5D)
-  
+
 </a>
 
+## About Me
+- I'm a [Jenkins X](https://jenkins-x.io) co-maintainer.
+- I was selected for [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/archive/2022/projects/FtTH60cj) as a mentee.
+- I was selected for [The Linux Foundation Training (LiFT)](https://www.linuxfoundation.org/diversity-inclusivity/lift-scholarship-2021-recipients/) Scholarship.
 
-### 🏅 Honors & Awards
-- Selected as a recipient for the [Linux Foundation Training (LiFT)](https://www.linuxfoundation.org/diversity-inclusivity/lift-scholarship-2021-recipients/) Scholarship in the Developer Do-Gooders category.
+## 
 
-### 📫 How to reach me: 
 <p align="center">
   <a href="https://twitter.com/rajatgtwt">
     <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
@@ -53,5 +25,3 @@
     <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/>
   </a>
 </p>
-
-<!-- ### Some proud moments of my engineering -->
