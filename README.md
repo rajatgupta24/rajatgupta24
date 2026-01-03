@@ -1,27 +1,37 @@
-# Hello, I'm Rajat Gupta
-I'm a senior studying computer science for my bachelor's degree. Throughout college, I worked on a few projects and contributed to several open source projects.
+# Hi, I'm Rajat Gupta 👋
 
-<a href="#" align="center">
+### Cloud Native Engineer | Go Backend Architect | Open Source Contributor
 
-  ![](https://github-readme-streak-stats.herokuapp.com?user=rajatgupta24&date_format=M%20j%5B%2C%20Y%5D)
+I am a Computer Science Graduate focused on building scalable, distributed systems. My expertise lies in the **Cloud Native** ecosystem, specifically working with **Golang**, **Kubernetes**, and **CI/CD** automation. I believe in writing clean, performant code and contributing back to the community that built the tools I use every day.
 
-</a>
+---
 
-## About Me
-- I'm a [Jenkins X](https://jenkins-x.io) co-maintainer.
-- I was selected for [Google Summer of Code (GSoC)](https://summerofcode.withgoogle.com/archive/2022/projects/FtTH60cj) as a mentee.
-- I was selected for [The Linux Foundation Training (LiFT)](https://www.linuxfoundation.org/diversity-inclusivity/lift-scholarship-2021-recipients/) Scholarship.
+### 🛠️ Core Stack & Tools
+- **Languages:** Golang, Python, C++, Java
+- **Cloud Native:** Kubernetes (K8s), Docker, Jenkins X, ArgoCD
+- **Backend:** PostgreSQL, Redis, REST APIs, OAuth 2.0
+- **DevOps:** GitHub Actions, Terraform, Linux Foundation (LiFT) Certified
 
-## 
+---
 
-<p align="center">
+### 🌟 Career Highlights
+- **Jenkins X Co-Maintainer:** Actively maintaining and evolving CI/CD solutions for modern cloud-native applications.
+- **Google Summer of Code (GSoC) Alum:** Selected as a mentee to work on high-impact open-source projects.
+- **Linux Foundation (LiFT) Scholar:** Recipient of the Diversity & Inclusivity scholarship for advanced technical training.
+
+---
+
+### 📫 Let's Connect
+<p align="left">
   <a href="https://twitter.com/rajatgtwt">
-    <img src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/twitter.png" width="35"/>
   </a>
   <a href="https://www.linkedin.com/in/rajatgupta24/">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" width="35"/>
   </a>
   <a href="mailto:rajat2411gupta@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png"/>
+    <img src="https://img.icons8.com/fluency/48/000000/apple-mail.png" width="35"/>
   </a>
 </p>
+
+*"Building systems that scale, one commit at a time."*
